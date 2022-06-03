@@ -1,5 +1,9 @@
 # qrcode
 
+#screenshot
+<img src="https://ibb.co/Pr5MwgR" alt="">
+
+
 ## Project setup
 ```
 npm install
