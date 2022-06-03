@@ -1,7 +1,7 @@
 # qrcode
 
 ## screenshot
-<img src="[https://ibb.co/Pr5MwgR](https://cdn.discordapp.com/attachments/903442055282429963/982316852124459038/unknown.png)" alt="">
+<img src="https://cdn.discordapp.com/attachments/903442055282429963/982316852124459038/unknown.png" alt="">
 
 
 
